@@ -1,5 +1,5 @@
 
-## 💻 &nbsp; Olá! Eu sou a Raphael 
+## 💻 &nbsp; Olá! Eu sou o Raphael 
 
 -  Software developer
 
